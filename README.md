@@ -21,3 +21,6 @@
 <a href="https://vk.com/sempa_ku" target="blank"><img align="center" src="https://github.com/Sempaku/Sempaku/blob/main/icons/vk.svg" alt="Semyon" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/518795660024217600/" target="blank"><img align="center" src="https://github.com/Sempaku/Sempaku/blob/main/icons/discord.svg" alt="sempaku" height="50" width="50" /></a>
 </p>
+
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sempaku)](https://github.com/anuraghazra/github-readme-stats)
